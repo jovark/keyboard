@@ -1,6 +1,6 @@
 This is a repository containing all the files and materials used for building my Dactyl Manuform 5x6.
 
-The controllers and other small electronics used for this project were purchased for AliExpress. For everything else here is the parts list:
+The controllers and other small electronics used for this project were purchased from AliExpress. For everything else here is the parts list:
 - [Case and PCBs](https://crystalskeebs.com/)
 - [Keycaps](https://drop.com/buy/drop-mt3-dancer-keycap-set?defaultSelectionIds=967474)
 
