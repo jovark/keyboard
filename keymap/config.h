@@ -20,5 +20,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define MASTER_LEFT
 
 #define SPLIT_USB_DETECT
-#define SPLIT_USB_TIMEOUT 5000
-#define SPLIT_USB_TIMEOUT_POLL 5
+#define SPLIT_WATCHDOG_ENABLE
