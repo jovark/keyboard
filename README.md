@@ -5,3 +5,7 @@ The controllers and other small electronics used for this project were purchased
 - [Keycaps](https://drop.com/buy/drop-mt3-dancer-keycap-set?defaultSelectionIds=967474)
 
 Here is a build guide(not by me): https://www.youtube.com/watch?v=DPJl5gswgbQ
+
+*I have now switched to 3D printed DES keycaps. The stl files have been generated with this tool https://github.com/jovark/PseudoMakeMeKeyCapProfiles.
+
+*The json file is outdated.
