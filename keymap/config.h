@@ -21,3 +21,4 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 // #define FORCE_NKRO
 #define SPLIT_USB_DETECT
 #define SPLIT_WATCHDOG_ENABLE
+#define QUICK_TAP_TERM 0
